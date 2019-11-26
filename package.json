@@ -12,12 +12,18 @@
   },
   "keywords": [
     "seo",
-    "coupons",
     "header",
-    "open",
-    "graph"
+    "open graph",
+    "twitter card",
+    "meta",
+    "metadata",
+    "facebook",
+    "react" 
   ],
   "author": "DealDrop",
   "license": "ISC",
-  "homepage": "https://www.dealdrop.com/"
+  "homepage": "https://www.dealdrop.com/",
+  "bugs": {
+    "url": "https://github.com/DealDropHQ/simple-seo-header/issues"
+  }
 }

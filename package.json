@@ -1,0 +1,23 @@
+{
+  "name": "@dealdrop/seo-header",
+  "version": "1.0.0",
+  "description": "Simple header module which is optemized for SEO and Open Graph etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DealDropHQ/simple-seo-header.git"
+  },
+  "keywords": [
+    "seo",
+    "coupons",
+    "header",
+    "open",
+    "graph"
+  ],
+  "author": "DealDrop",
+  "license": "ISC",
+  "homepage": "https://www.dealdrop.com/"
+}

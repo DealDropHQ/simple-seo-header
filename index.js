@@ -1,4 +1,4 @@
-export default ({ siteURL, siteName, pageTitle, siteImage, description }) => {
+export default ({ siteURL, pageTitle, siteImage, description }) => {
   return (
     <Head>
       <title>{pageTitle}</title>

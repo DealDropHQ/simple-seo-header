@@ -1,6 +1,6 @@
 {
   "name": "@dealdrop/seo-header",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Simple header module which is optemized for SEO and Open Graph etc",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "meta",
     "metadata",
     "facebook",
-    "react" 
+    "react"
   ],
   "author": "DealDrop",
   "license": "ISC",

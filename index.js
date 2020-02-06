@@ -1,11 +1,4 @@
-export default () => {
-  const siteURL = `https://www.dealdrop.com`
-  const siteName = `DealDrop`
-
-  const pageTitle = `This is the page title ${siteName}`
-  const siteImage = `https://images.dealdrop.com/uploads/DealDrop-Logo-2x-purple-blue.png`
-  const description = `Latest ${siteName} coupon codes, discounts and promos. Find more coupons at ${siteURL}`
-
+export default ({ siteURL, siteName, pageTitle, siteImage, description }) => {
   return (
     <Head>
       <title>{pageTitle}</title>

@@ -18,3 +18,5 @@ import SeoHeader from '@dealdrop/seo-header/seo-header'
 ```
 
 We use this code on every page at [DealDrop.com](https://www.dealdrop.com). For a single store page we inject various data points (ie the number of coupons or the date the store listing was last updated). Here are two examples which you can review -  [VapeMate coupons](https://www.dealdrop.com/store/vapemate.co.uk) and [Tommy Johns coupons](https://www.dealdrop.com/store/tommyjohn.com).
+
+Check out more resources at [https://dealdrophq.github.io](https://dealdrophq.github.io)

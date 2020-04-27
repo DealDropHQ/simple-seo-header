@@ -1,6 +1,6 @@
 {
   "name": "@dealdrop/seo-header",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Simple header module which is optemized for SEO and Open Graph etc",
   "main": "index.js",
   "scripts": {
